@@ -16,8 +16,6 @@ This project is an end-to-end data visualization study of **Blinkit’s** operat
 ## 📸 Dashboard Preview
 > **Note:** To see the visual impact, please refer to the screenshot below:
 
-![Blinkit Dashboard Screenshot](Blinkit_Dashboard_SS.png)
-
 ## 📂 Project Structure
 - 📄 `Blinkit Operations – Quick Commerce Insights.twbx` : The full Tableau workbook.
 - 🖼️ `Blinkit_Dashboard_SS.png` : Visual preview of the dashboard.
